@@ -1,3 +1,2 @@
-hello hithub
-edit test
-for branch
+ブランチのテスト中です。
+中身のファイルを書き換えました
